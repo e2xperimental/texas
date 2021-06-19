@@ -28,7 +28,7 @@ category: Restaurants
 ## Mediterranean
 
 - [Zoës Kitchen](https://zoeskitchen.com/menu?storeNumber=149030)
-- Kabobzi's
+- [Kabobzi](https://kabobzi.com/menu)
 
 ## Mexican
 - [Chipotle](https://www.chipotle.com/)
