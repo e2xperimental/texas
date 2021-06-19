@@ -6,6 +6,7 @@ category: Restaurants
 ---
 
 ## American
+- Panera
 - [The Grove](http://places.singleplatform.com/the-grove-wine-bar-and-kitchen---cedar-park/menu?ref=google#menu_2611609)
 
 ## Indian
@@ -13,11 +14,12 @@ category: Restaurants
 
 ## Healthy
 
-- Mad Greens
+- [Mad Greens](https://order.madgreens.com/menu/mad-greens-cedar-park)
 - [Modern Market](https://modernmarket.com/42714/menu/lunch-dinner)
 - [Salata](https://order.salata.com/menu/74749)
 
 ## Italian
+- [Blaze Pizza](https://www.blazepizza.com/)
 - [Gino's Italian Restaurant](https://www.ginoscedarpark.com/dinner-menu)
 
 ## Latin
