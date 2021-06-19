@@ -8,6 +8,7 @@ category: Activities
 ## North Austin
 
 - [Kalahari Resorts](https://www.kalahariresorts.com/texas/) (15 mi)
+- [Typhoon Texas](https://www.typhoontexas.com/austin) (16 mi)
 
 ## New Braunfels
 
