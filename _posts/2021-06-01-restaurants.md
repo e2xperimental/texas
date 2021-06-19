@@ -10,7 +10,7 @@ category: Restaurants
 - [The Grove](http://places.singleplatform.com/the-grove-wine-bar-and-kitchen---cedar-park/menu?ref=google#menu_2611609)
 
 ## Indian
-- [Masala Wok](https://www.masalawoktogo.com/?location=11e9dee63608f979bdc20cc47a2ae638) ()
+- [Masala Wok](https://www.masalawoktogo.com/?location=11e9dee63608f979bdc20cc47a2ae638) 
 
 ## Healthy
 
@@ -30,9 +30,8 @@ category: Restaurants
 - [Zoës Kitchen](https://zoeskitchen.com/menu?storeNumber=149030)
 - Kabobzi's
 
-## Salads
-
-## Tex Mex
+## Mexican
+- [Chipotle](https://www.chipotle.com/)
 - [Dos Salsas](https://www.dossalsas.com/menu#menu=main-menu)
 
 ## Breakfast
