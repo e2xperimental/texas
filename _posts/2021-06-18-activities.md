@@ -5,11 +5,13 @@ date: 2021-06-18 11:33:00 -0000
 category: Activities
 ---
 
-## Austin
+## North Austin
 
-- Kalahari resorts
-- Go Carts
-- Enchanted rock
+- [Sandbox VR](https://sandboxvr.com/austin)
+
+## South Austin
+
+- [Formula One Go-Karts](http://circuitoftheamericas.com/karting)
 
 ## San Antonio
 
