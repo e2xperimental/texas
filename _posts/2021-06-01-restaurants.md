@@ -33,6 +33,7 @@ category: Restaurants
 ## Mexican
 - [Chipotle](https://www.chipotle.com/)
 - [Dos Salsas](https://www.dossalsas.com/menu#menu=main-menu)
+- [The Oasis](https://oasis-austin.com/lunch_dinner/)
 
 ## Breakfast
 
