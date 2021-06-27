@@ -49,6 +49,7 @@ category: Restaurants
 
 ## Dinner + Movie
 
-### Alamo Drafthouse
-- [Movies](https://drafthouse.com/austin#now-playing)
-- [Menu](https://s3.drafthouse.com/menus/austin_reopen-menu-033121.pdf)
+- [Alamo Drafthouse](https://drafthouse.com/austin#now-playing)
+  - [Menu](https://s3.drafthouse.com/menus/austin_reopen-menu-033121.pdf)
+
+- [Moviehouse & Eatery](https://cinepolisusa.com/locations/moviehouse-and-eatery-NW-Austin)
