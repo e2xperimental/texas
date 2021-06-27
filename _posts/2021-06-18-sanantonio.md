@@ -8,3 +8,8 @@ category: Sightseeing
 ## Sightseeing
 
 - [The Alamo](https://www.thealamo.org/)
+
+## Theme parks
+
+- Sea World
+- Six Flags
