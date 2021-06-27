@@ -46,3 +46,9 @@ category: Restaurants
 - [Dos Salsas](https://www.dossalsas.com/menu#menu=main-menu)
 - [The Oasis](https://oasis-austin.com/lunch_dinner/)
 - [Torchy's Tacos](https://torchystacos.com/menu/)
+
+## Dinner + Movie
+
+### Alamo Drafthouse
+- [Movies](https://drafthouse.com/austin#now-playing)
+- [Menu](https://s3.drafthouse.com/menus/austin_reopen-menu-033121.pdf)
