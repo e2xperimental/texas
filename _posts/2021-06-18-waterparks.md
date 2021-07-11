@@ -7,8 +7,17 @@ category: Activities
 
 ## North Austin
 
-- [Kalahari Resorts](https://www.kalahariresorts.com/texas/) (15 mi)
-- [Typhoon Texas](https://www.typhoontexas.com/austin) (16 mi)
+### [Typhoon Texas - Austin](https://www.typhoontexas.com/austin) (16 mi)
+
+- Admission: $35 + tax
+- Parking: free
+- Mondays - Thursdays: 10:30am to 6pm
+- Fridays - Sundays: 10:30am to 7pm
+
+18500 TX-130 North Service Road
+Pflugerville, TX 78660
+
+### [Kalahari Resorts](https://www.kalahariresorts.com/texas/) (15 mi)
 
 ## New Braunfels
 
