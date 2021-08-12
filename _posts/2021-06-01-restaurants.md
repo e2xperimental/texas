@@ -33,7 +33,7 @@ category: Restaurants
 
 ## Mediterranean
 
-- [Zoës Kitchen](https://zoeskitchen.com/menu?storeNumber=149030)
+- [Zoës Kitchen](https://zoeskitchen.com/menu?storeNumber=149003)
 - [Kabobzi](https://kabobzi.com/menu)
 
 ## New York
