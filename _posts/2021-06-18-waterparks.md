@@ -7,18 +7,24 @@ category: Activities
 
 ## North Austin
 
+### [Kalahari Resorts](https://www.kalahariresorts.com/texas/) (15 mi)
+
+- Indoor Waterpark: 10am-9pm Daily
+- Outdoor Resort Pool: 11am-7pm Daily | Weather Pending
+- 737-757-7475 (Waterpark Front Desk)
+
 ### [Typhoon Texas - Austin](https://www.typhoontexas.com/austin) (16 mi)
 
+- Saturday, Sept 4: 10:30am - 7pm
 - Admission: $35 + tax
 - Parking: free
-- Mondays - Thursdays: 10:30am to 6pm
-- Fridays - Sundays: 10:30am to 7pm
+- [(512) 212-7792](tel:5122127792)
 
 18500 TX-130 North Service Road
 Pflugerville, TX 78660
 
-### [Kalahari Resorts](https://www.kalahariresorts.com/texas/) (15 mi)
-
 ## New Braunfels
 
-- [Schlitterbahn Waterpark](https://www.schlitterbahn.com/new-braunfels) (66 mi)
+### [Schlitterbahn Waterpark](https://www.schlitterbahn.com/new-braunfels) (66 mi)
+
+- Saturday, Sept 4: 11am - 6 pm
