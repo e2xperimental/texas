@@ -11,5 +11,6 @@ category: Sightseeing
 
 ## Theme parks
 
-- Sea World
-- Six Flags
+### Sea World
+
+- [10 am - 9 PM, Sunday, Aug 29](https://seaworld.com/san-antonio/park-info/theme-park-hours/)
