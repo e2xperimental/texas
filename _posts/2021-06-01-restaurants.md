@@ -33,7 +33,6 @@ category: Restaurants
 
 ## Mediterranean
 
-- [Zoës Kitchen](https://zoeskitchen.com/menu?storeNumber=149003)
 - [Kabobzi](https://kabobzi.com/menu)
 
 ## New York
@@ -51,5 +50,3 @@ category: Restaurants
 
 - [Alamo Drafthouse](https://drafthouse.com/austin#now-playing)
   - [Menu](https://s3.drafthouse.com/menus/austin_reopen-menu-033121.pdf)
-
-- [Moviehouse & Eatery](https://cinepolisusa.com/locations/moviehouse-and-eatery-NW-Austin)
