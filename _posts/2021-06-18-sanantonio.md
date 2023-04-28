@@ -9,6 +9,10 @@ category: Sightseeing
 
 - [The Alamo](https://www.thealamo.org/)
 
+### San Antonio Missions
+- [Open daily from 9 a.m. to 5 p.m.](https://www.nps.gov/saan/planyourvisit/hours.htm)
+- Cost: [Free](https://www.nps.gov/saan/planyourvisit/feesandreservations.htm)
+
 ## Theme parks
 
 ### Sea World
