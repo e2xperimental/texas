@@ -7,7 +7,7 @@ category: Sightseeing
 
 ## North Padre Island
 
-- [Sea Turtle Hatchling Releases](https://www.nps.gov/pais/learn/nature/hatchlingreleases.htm)
+[Sea Turtle Hatchling Releases](https://www.nps.gov/pais/learn/nature/hatchlingreleases.htm)
 
 When: Mid-June through August
 
