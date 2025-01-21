@@ -46,6 +46,11 @@ category: Restaurants
 - [The Oasis](https://oasis-austin.com/lunch_dinner/)
 - [Torchy's Tacos](https://torchystacos.com/menu/)
 
+## Pizza
+- [Warpath Pizza & Pub](https://warpathpizza.com/)
+401 Cypress Creek Road, Ste. 600, Cedar Park
+Offers specialty pizzas including The Boba Feta, a street taco-themed pizza with buffalo chicken, feta and black beans.
+
 ## Dinner + Movie
 
 - [Alamo Drafthouse](https://drafthouse.com/austin#now-playing)
